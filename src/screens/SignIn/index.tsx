@@ -11,7 +11,7 @@ export function SignIn() {
       <KeyboardAvoidingView
         behavior={Platform.OS === "ios" ? "padding" : undefined}
       >
-        
+
         <S.Content>
           <S.Title>Login</S.Title>
 
