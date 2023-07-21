@@ -1,4 +1,5 @@
 import { Input } from "@components/Input";
+import { Button } from "@components/Button";
 
 import * as S from "./styles";
 
@@ -21,6 +22,10 @@ export function SignIn() {
         type="primary"
       />
       
+      <Button
+      title="Entrar"
+      type="primary"
+      />
     </S.Container>
   );
 }
