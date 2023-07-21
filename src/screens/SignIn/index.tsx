@@ -1,3 +1,9 @@
+import * as S from "./styles";
+
 export function SignIn() {
-    return <></>
+    return (
+        <S.Container>
+            <S.Title>Login</S.Title>
+        </S.Container>
+    )
 }
