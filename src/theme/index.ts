@@ -8,6 +8,10 @@ export default {
     PRIMARY_100: "#f1f5f9",
     PRIMARY_50: "#f8fafc",
 
+    SECUNDARY_900: "#572D31",
+    SECUNDARY_500: "#7A6769",
+    SECUNDARY_400: "#93797B",
+
     SUCCESS_800: "#166534",
 
     ALERT_900: "#7f1d1d",

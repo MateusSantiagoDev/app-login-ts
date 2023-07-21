@@ -7,7 +7,8 @@
       "@src/*": ["./src/*"],
       "@hooks/*": ["./src/hooks/*"],
       "@screens/*": ["./src/screens/*"],
-      "@theme": ["./src/theme/*"]
+      "@theme/*": ["./src/theme/*"],
+      "@components/*": ["./src/components/*"]
     }
   }
 }
